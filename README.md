@@ -1,6 +1,8 @@
 # netcore_vscode_tasks
 $ dotnet new console -n netcore-vscode-tasks
+
 $ cd netcore-vscode-tasks
+
 $ code .
 
 # git control
